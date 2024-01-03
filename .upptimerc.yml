@@ -1,31 +1,322 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: chwang-team # Your GitHub organization or username, where this repository lives
+repo: status-hao # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - url: https://www.sellersprite.com/
+    name: 卖家精灵
+    icon: https://img.chwang.com/web/hao/sellersprite.png
+  - url: https://www.oalur.com/
+    name: 鸥鹭选品
+    icon: https://img.chwang.com/web/hao/oalur.png
+  - url: https://www.junglescout.com/
+    name: Jungle Scout
+    icon: https://img.chwang.com/web/hao/jungle_scout.png
+  - url: https://amzscout.net/
+    name: AMZScout
+    icon: https://img.chwang.com/web/hao/amzscout.png
+  - url: https://app.easyya.com/
+    name: EasyYa易芽
+    icon: https://img.chwang.com/web/hao/easyya.png
+  - url: https://www.helium10.com/
+    name: Helium 10
+    icon: https://img.chwang.com/web/hao/helium10.png
+  - url: https://keepa.com/
+    name: Keepa
+    icon: https://img.chwang.com/web/hao/keepa.png
+  - url: https://www.tool4seller.cn/
+    name: 点金tool4seller
+    icon: https://img.chwang.com/web/hao/tool4seller.png
+  - url: https://www.sorftime.com/
+    name: Sorftime
+    icon: https://img.chwang.com/web/hao/sorftime.png
+  - url: https://amzchart.com/amazon-product-research
+    name: AmzChart
+    icon: https://img.chwang.com/web/hao/amzchart.png
+  - url: https://www.merchantwords.com/
+    name: 'MerchantWords '
+    icon: https://img.chwang.com/web/hao/merchantwords.png
+  - url: https://www.viral-launch.com/
+    name: Viral Launch
+    icon: https://img.chwang.com/web/hao/biral_launch.png
+  - url: https://www.fastmoss.com/
+    name: Fastmoss
+    icon: https://img.chwang.com/web/hao/fastmoss.png
+  - url: https://didadog.com/
+    name: 滴答狗
+    icon: https://img.chwang.com/web/hao/didadog.png
+  - url: https://www.ebay.com/sh/research
+    name: Terapeak
+    icon: https://img.chwang.com/web/hao/ebay.png
+  - url: https://www.shopeefans.com/
+    name: Shopeefans
+    icon: https://img.chwang.com/web/hao/shopeefans.png
+  - url: https://shopee.mobduos.com/
+    name: 知虾
+    icon: https://img.chwang.com/web/hao/mobduos.png
+  - url: https://aliinsider.com/
+    name: Ali Insider
+    icon: https://img.chwang.com/web/hao/ali_insider.png
+  - url: https://www.malllib.com/
+    name: 米库
+    icon: https://img.chwang.com/web/hao/malllib.png
+  - url: https://www.newmorehot.com/
+    name: 牛魔王
+    icon: https://img.chwang.com/web/hao/newmorehot.png
+  - url: https://www.datacaciques.com/
+    name: 数字酋长
+    icon: https://img.chwang.com/web/hao/datacaciques.png
+  - url: https://haiyingshuju.com/
+    name: 海鹰数据
+    icon: https://img.chwang.com/web/hao/haiyingshuju.png
+  - url: https://aliinspector.com/
+    name: Ali Inspector 2
+    icon: https://img.chwang.com/web/hao/aliinspector.png
+  - url: https://www.keyworddiscovery.com/
+    name: KeyWord Discovery
+    icon: https://img.chwang.com/web/hao/keyworddiscovery.png
+  - url: https://www.keyworddiscovery.com/
+    name: AnswerThePublic
+    icon: https://img.chwang.com/web/hao/answerthepublic.png
+  - url: https://crossker.com/
+    name: Crossker
+    icon: https://img.chwang.com/web/hao/crossker.png
+  - url: https://keywordtool.io/
+    name: KeywordTool
+    icon: https://img.chwang.com/web/hao/keywordtool.png
+  - url: https://adwords.google.cn/KeywordPlanner
+    name: KeywordPlanner
+    icon: https://img.chwang.com/web/hao/KeywordPlanner.png
+  - url: https://www.merchantwords.com/
+    name: MerchantWords
+    icon: https://img.chwang.com/web/hao/merchantwords.png
+  - url: https://www.wordtracker.com/
+    name: Wordtracker
+    icon: https://img.chwang.com/web/hao/wordtracker.png
+  - url: https://www.xiyouzhaoci.com/
+    name: 西柚找词
+    icon: https://img.chwang.com/web/hao/xiyouzhaoci.png
+  - url: https://www.oalur.com/landingpage/product-keyword/
+    name: 鸥鹭关键词工具
+    icon: https://img.chwang.com/web/hao/oalur.png
+  - url: https://mangools.com/kwfinder/
+    name: KWFinder
+    icon: https://img.chwang.com/web/hao/kwfinder.png
+  - url: https://www.audtools.com/
+    name: Audtools
+    icon: https://img.chwang.com/web/hao/audtools.png
+  - url: https://www.1688.com/
+    name: '1688'
+    icon: https://img.chwang.com/web/hao/1688.png
+  - url: https://www.yiwugo.com/
+    name: 义乌购
+    icon: https://img.chwang.com/web/hao/yiwugo.png
+  - url: https://www.chinagoods.com/
+    name: 义务小商品城
+    icon: https://img.chwang.com/web/hao/chinagoods.png
+  - url: https://wsy.com/
+    name: 网商园
+    icon: https://img.chwang.com/web/hao/wsy.png
+  - url: https://www.17zwd.com/
+    name: 17货源
+    icon: https://img.chwang.com/web/hao/17zwd.png
+  - url: https://www.571xz.com/
+    name: 四季星座网
+    icon: https://img.chwang.com/web/hao/571xz.png
+  - url: https://www.17qcc.com/
+    name: 青创网
+    icon: https://img.chwang.com/web/hao/17qcc.png
+  - url: https://www.3e3e.cn/
+    name: 生意网
+    icon: https://img.chwang.com/web/hao/3e3e.png
+  - url: https://www.hznzcn.com/
+    name: 货捕头
+    icon: https://img.chwang.com/web/hao/hznzcn.png
+  - url: https://www.eelly.com/
+    name: 衣联
+    icon: https://img.chwang.com/web/hao/eelly.png
+  - url: https://www.vvic.com/
+    name: 搜款网
+    icon: https://img.chwang.com/web/hao/vvic.png
+  - url: https://www.5ts.com/
+    name: 童商网
+    icon: https://img.chwang.com/web/hao/5ts.png
+  - url: http://www.bao66.cn/
+    name: 包牛牛
+    icon: https://img.chwang.com/web/hao/bao66.png
+  - url: https://www.k3.cn/
+    name: 台州开山网
+    icon: https://img.chwang.com/web/hao/k3.png
+  - url: http://www.mmgg.com/
+    name: 美美淘
+    icon: https://img.chwang.com/web/hao/mmgg.png
+  - url: https://www.cnxieku.com/index
+    name: 鞋库网
+    icon: https://img.chwang.com/web/hao/cnxieku.png
+  - url: http://www.go2.cn/
+    name: 购途网
+    icon: https://img.chwang.com/web/hao/go2.png
+  - url: https://sooxie.com/
+    name: 爱搜鞋
+    icon: https://img.chwang.com/web/hao/sooxie.png
+  - url: https://www.nala.com.cn/
+    name: 娜拉美妆
+    icon: https://img.chwang.com/web/hao/nala.png
+  - url: https://www.geshow.com/
+    name: 个秀名妆
+    icon: https://img.chwang.com/web/hao/geshow.png
+  - url: https://www.hqew.com/
+    name: 华强电子网
+    icon: https://img.chwang.com/web/hao/hqew.png
+  - url: https://www.ichunt.com/
+    name: 猎芯网
+    icon: https://img.chwang.com/web/hao/ichunt.png
+  - url: https://www.hqbuy.com/
+    name: 华强商城
+    icon: https://img.chwang.com/web/hao/hqbuy.png
+  - url: https://www.hqchip.com/
+    name: 华秋商城
+    icon: https://img.chwang.com/web/hao/hqchip.png
+  - url: https://www.gongchang.com/
+    name: 世界工厂
+    icon: https://img.chwang.com/web/hao/shijiegongchang.png
+  - url: https://www.gongbangbang.com/
+    name: 工邦邦
+    icon: https://img.chwang.com/web/hao/gongbangbang.png
+  - url: https://cn.made-in-china.com/
+    name: 中国制造网
+    icon: https://img.chwang.com/web/hao/madeinchina.png
+  - url: https://www.ehsy.com/
+    name: 西域网
+    icon: https://img.chwang.com/web/hao/ehsy.png
+  - url: https://www.hc360.com/
+    name: 慧聪网
+    icon: https://img.chwang.com/web/hao/hc360.png
+  - url: https://cn.china.cn/
+    name: 中国供应商
+    icon: https://img.chwang.com/web/hao/cnchina.png
+  - url: https://www.51sole.com/
+    name: 搜了网
+    icon: https://img.chwang.com/web/hao/51sole.png
+  - url: http://www.qipeiren.com/
+    name: 汽配人
+    icon: https://img.chwang.com/web/hao/qipeiren.png
+  - url: https://www.vipmro.com/
+    name: 工品优选
+    icon: https://img.chwang.com/web/hao/vipmro.png
+  - url: https://www.91jf.com/
+    name: 91家纺
+    icon: https://img.chwang.com/web/hao/91jf.png
+  - url: https://www.zhaojiafang.com/
+    name: 找家纺网
+    icon: https://img.chwang.com/web/hao/zhaojiafang.png
+  - url: https://cp.tnc.com.cn/
+    name: 家纺批发网
+    icon: https://img.chwang.com/web/hao/tnc.png
+  - url: https://www.ctoy.com.cn/sell/
+    name: 中外玩具网
+    icon: https://img.chwang.com/web/hao/ctoy.png
+  - url: https://www.rongqu.net/
+    name: 绒趣网
+    icon: https://img.chwang.com/web/hao/rongqu.png
+  - url: https://www.toybaba.com/
+    name: 玩具巴巴
+    icon: https://img.chwang.com/web/hao/toybaba.png
+  - url: https://www.giftres.com/
+    name: 金文定制
+    icon: https://img.chwang.com/web/hao/giftres.jpg
+  - url: https://www.officecar.cn/
+    name: 办公车
+    icon: https://img.chwang.com/web/hao/officecar.png
+  - url: https://www.szrfh.com/
+    name: 荣风华商城
+    icon: https://img.chwang.com/web/hao/szrfh.png
+  - url: hhttps://www.hcbuy.com/
+    name: 海创恒源
+    icon: https://img.chwang.com/web/hao/hcbuy.png
+  - url: https://www.wjyh.com/
+    name: 文驹1号
+    icon: https://img.chwang.com/web/hao/wjyh.png
+  - url: https://www.saleyee.cn/
+    name: 赛盈分销
+    icon: https://img.chwang.com/web/hao/saleyee.png
+  - url: https://www.viomall.com/
+    name: VIOMALL跨境分销平台
+    icon: https://img.chwang.com/web/hao/viomall.png
+  - url: https://www.mixsss.com/
+    name: 美适分销
+    icon: https://img.chwang.com/web/hao/mixsss.png
+  - url: https://www.toonies.cn/
+    name: 托尼斯
+    icon: https://img.chwang.com/web/hao/toonies.png
+  - url: https://www.cjdropshipping.com/
+    name: CJdropshipping
+    icon: https://img.chwang.com/web/hao/cjdropshipping.png
+  - url: https://www.doba.com/
+    name: DOBA
+    icon: https://img.chwang.com/web/hao/doba.png
+  - url: http://m2c.global360.com.cn/
+    name: 出口易M2C供销平台
+    icon: https://img.chwang.com/web/hao/global360.png
+  - url: https://www.babyzhiai.net/
+    name: 挚爱母婴
+    icon: https://img.chwang.com/web/hao/babyzhiai.png
+  - url: https://www.kjds.com/
+    name: 越域网
+    icon: https://img.chwang.com/web/hao/kjds.png
+  - url: https://sunrisewholesalemerchandise.com/
+    name: Sunrise Wholesale
+    icon: https://img.chwang.com/web/hao/sunrisewholes.png
+  - url: https:https://www.oberlo.com/
+    name: Oberlo
+    icon: https://img.chwang.com/web/hao/oberlo.png
+  - url: https://www.wholesale2b.com/
+    name: Wholesale 2B
+    icon: https://img.chwang.com/web/hao/wholesale2b.png
+  - url: https://www.salehoo.com/
+    name: SaleHoo
+    icon: https://img.chwang.com/web/hao/salehoo.png
+  - url: https://www.cus-mall.com/
+    name: 丝路云仓
+    icon: https://img.chwang.com/web/hao/cusmall.png
+  - url: http://www.b2csupply.com/list/index/home
+    name: 海卖通
+    icon: https://img.chwang.com/web/hao/b2csupply.png
+  - url: https://www.topdser.com/
+    name: Topdser
+    icon: https://img.chwang.com/web/hao/topdser.png
+  - url: https://www.yms.com/
+    name: YMS.COM
+    icon: https://img.chwang.com/web/hao/yms.png
+  - url: http://hy.menglar.com/
+    name: 萌啦严选
+    icon: https://img.chwang.com/web/hao/menglar.png
+  - url: https://www.hicustom.com/
+    name: 指纹定制
+    icon: https://img.chwang.com/web/hao/hicustom.png
+  - url: https://www.viomall.com/
+    name: 飞飞鱼定制
+    icon: https://img.chwang.com/web/hao/feifeiyu.png
+  - url: https://www.sdsdiy.com/
+    name: SDS定制选品
+    icon: https://img.chwang.com/web/hao/sdsdiy.png
+  - url: https://www.8ding.com/
+    name: 八点多定制
+    icon: https://img.chwang.com/web/hao/8ding.png
+  - url: https://www.s2bdiy.com/
+    name: S2bdiy定制供应链
+    icon: https://img.chwang.com/web/hao/s2bdiy.png
+  - url: https://www.printful.com/
+    name: Printful
+    icon: https://img.chwang.com/web/hao/printful.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status-hao.chwang.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  logoUrl: https://www.chwang.com/favicon.ico
+  name: 出海网导航状态
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
