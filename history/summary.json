@@ -5,17 +5,19 @@
     "icon": "https://img.chwang.com/web/hao/sellersprite.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4174,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {}
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "鸥鹭选品",
@@ -23,18 +25,18 @@
     "icon": "https://img.chwang.com/web/hao/oalur.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4174,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -115,17 +117,19 @@
     "icon": "https://img.chwang.com/web/hao/keepa.png",
     "slug": "keepa",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 444,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 478,
+    "timeDay": 460,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "点金tool4seller",
@@ -241,18 +245,18 @@
     "icon": "https://img.chwang.com/web/hao/didadog.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -297,18 +301,18 @@
     "icon": "https://img.chwang.com/web/hao/mobduos.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -335,18 +339,18 @@
     "icon": "https://img.chwang.com/web/hao/malllib.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -355,18 +359,18 @@
     "icon": "https://img.chwang.com/web/hao/newmorehot.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -375,18 +379,18 @@
     "icon": "https://img.chwang.com/web/hao/datacaciques.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -395,18 +399,18 @@
     "icon": "https://img.chwang.com/web/hao/haiyingshuju.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -559,18 +563,18 @@
     "icon": "https://img.chwang.com/web/hao/xiyouzhaoci.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -579,18 +583,18 @@
     "icon": "https://img.chwang.com/web/hao/oalur.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -653,18 +657,18 @@
     "icon": "https://img.chwang.com/web/hao/yiwugo.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -673,18 +677,18 @@
     "icon": "https://img.chwang.com/web/hao/chinagoods.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -693,18 +697,18 @@
     "icon": "https://img.chwang.com/web/hao/wsy.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -731,18 +735,18 @@
     "icon": "https://img.chwang.com/web/hao/571xz.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -751,18 +755,18 @@
     "icon": "https://img.chwang.com/web/hao/17qcc.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -771,18 +775,18 @@
     "icon": "https://img.chwang.com/web/hao/3e3e.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -791,18 +795,18 @@
     "icon": "https://img.chwang.com/web/hao/hznzcn.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -811,18 +815,18 @@
     "icon": "https://img.chwang.com/web/hao/eelly.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -831,18 +835,18 @@
     "icon": "https://img.chwang.com/web/hao/vvic.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -851,18 +855,18 @@
     "icon": "https://img.chwang.com/web/hao/5ts.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -871,18 +875,18 @@
     "icon": "https://img.chwang.com/web/hao/bao66.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -891,18 +895,18 @@
     "icon": "https://img.chwang.com/web/hao/k3.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -911,18 +915,18 @@
     "icon": "https://img.chwang.com/web/hao/mmgg.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -931,18 +935,18 @@
     "icon": "https://img.chwang.com/web/hao/cnxieku.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -951,18 +955,18 @@
     "icon": "https://img.chwang.com/web/hao/go2.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -971,18 +975,18 @@
     "icon": "https://img.chwang.com/web/hao/sooxie.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -991,18 +995,18 @@
     "icon": "https://img.chwang.com/web/hao/nala.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1011,18 +1015,18 @@
     "icon": "https://img.chwang.com/web/hao/geshow.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1031,18 +1035,18 @@
     "icon": "https://img.chwang.com/web/hao/hqew.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1051,18 +1055,18 @@
     "icon": "https://img.chwang.com/web/hao/ichunt.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1071,18 +1075,18 @@
     "icon": "https://img.chwang.com/web/hao/hqbuy.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1091,18 +1095,18 @@
     "icon": "https://img.chwang.com/web/hao/hqchip.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1111,18 +1115,18 @@
     "icon": "https://img.chwang.com/web/hao/shijiegongchang.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1131,18 +1135,18 @@
     "icon": "https://img.chwang.com/web/hao/gongbangbang.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1151,18 +1155,18 @@
     "icon": "https://img.chwang.com/web/hao/madeinchina.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1171,18 +1175,18 @@
     "icon": "https://img.chwang.com/web/hao/ehsy.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1191,18 +1195,18 @@
     "icon": "https://img.chwang.com/web/hao/hc360.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1211,18 +1215,18 @@
     "icon": "https://img.chwang.com/web/hao/cnchina.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1231,18 +1235,18 @@
     "icon": "https://img.chwang.com/web/hao/51sole.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1251,18 +1255,18 @@
     "icon": "https://img.chwang.com/web/hao/qipeiren.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1271,18 +1275,18 @@
     "icon": "https://img.chwang.com/web/hao/vipmro.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1290,17 +1294,17 @@
     "url": "https://www.91jf.com/",
     "icon": "https://img.chwang.com/web/hao/91jf.png",
     "slug": "91",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1952,
-    "timeDay": 1853,
-    "timeWeek": 1952,
-    "timeMonth": 1952,
-    "timeYear": 1952,
+    "time": 1941,
+    "timeDay": 1796,
+    "timeWeek": 1941,
+    "timeMonth": 1941,
+    "timeYear": 1941,
     "dailyMinutesDown": {
       "2024-01-06": 0
     }
@@ -1311,18 +1315,18 @@
     "icon": "https://img.chwang.com/web/hao/zhaojiafang.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1331,18 +1335,18 @@
     "icon": "https://img.chwang.com/web/hao/tnc.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1351,18 +1355,18 @@
     "icon": "https://img.chwang.com/web/hao/ctoy.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1371,18 +1375,18 @@
     "icon": "https://img.chwang.com/web/hao/rongqu.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1391,18 +1395,18 @@
     "icon": "https://img.chwang.com/web/hao/toybaba.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1411,18 +1415,18 @@
     "icon": "https://img.chwang.com/web/hao/giftres.jpg",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1431,18 +1435,18 @@
     "icon": "https://img.chwang.com/web/hao/officecar.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1451,18 +1455,18 @@
     "icon": "https://img.chwang.com/web/hao/szrfh.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1471,18 +1475,18 @@
     "icon": "https://img.chwang.com/web/hao/hcbuy.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1509,18 +1513,18 @@
     "icon": "https://img.chwang.com/web/hao/saleyee.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1547,18 +1551,18 @@
     "icon": "https://img.chwang.com/web/hao/mixsss.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1567,18 +1571,18 @@
     "icon": "https://img.chwang.com/web/hao/toonies.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1641,18 +1645,18 @@
     "icon": "https://img.chwang.com/web/hao/babyzhiai.png",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
+    "uptime": "99.97%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 1
     }
   },
   {
@@ -1662,18 +1666,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sunrise Wholesale",
@@ -1754,18 +1756,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "海卖通",
@@ -1774,18 +1774,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Topdser",
@@ -1830,18 +1828,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "指纹定制",
@@ -1850,18 +1846,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "飞飞鱼定制",
@@ -1870,18 +1864,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SDS定制选品",
@@ -1908,18 +1900,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4163,
-    "timeDay": 4177,
-    "timeWeek": 4163,
-    "timeMonth": 4163,
-    "timeYear": 4163,
-    "dailyMinutesDown": {
-      "2024-01-06": 0
-    }
+    "time": 4176,
+    "timeDay": 4281,
+    "timeWeek": 4176,
+    "timeMonth": 4176,
+    "timeYear": 4176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "S2bdiy定制供应链",
